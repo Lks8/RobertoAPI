@@ -1,0 +1,14 @@
+{
+  "name": "roberto-api",
+  "version": "1.0.0",
+  "description": "Para aqueles que precisam de criatividade para exprimir seus sentimentos da maneira mais animalesca e crua possível.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": ["comments", "generator", "api"],
+  "author": "Lucas",
+  "license": "MIT",
+  "type": "module"
+}

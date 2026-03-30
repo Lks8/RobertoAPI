@@ -5,10 +5,18 @@
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "run server": "node server.js"
   },
-  "keywords": ["comments", "generator", "api"],
+  "keywords": [
+    "comments",
+    "generator",
+    "api"
+  ],
   "author": "Lucas",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }

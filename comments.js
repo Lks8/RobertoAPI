@@ -21,6 +21,8 @@ const comments = [
     "Vontade de jogar óleo quente no ouvido",
     "Vontade de colocar uma galera trancada numa sala e entrar lá com uma motosserra ligada",
     "Vontade de rasgar o cu com a mão e depois passar um rolo de arame farpado pra garantir que não cicatrize",
+    "Vontade de furar minha cabeça com um furador de coco",
+    "Vontade de enfiar um carro no posto de gasolina"
 ];
 
 const angryComments = [
@@ -32,7 +34,7 @@ const angryComments = [
     "Vontade de dar um banho de soda cáustica em alguém",
     "Vontade de pegar um maluco de porrada até ele virar do avesso",
     "Vontade de esquartejar alguém com uma tesourinha de unha",
-    "Vontade de colocar uma galera trancada numa sala e entrar lá com uma motosserra ligada",
+    "Vontade de colocar uma galera trancada numa sala e entrar lá com uma motosserra ligada"
 
 ];
 
@@ -53,6 +55,8 @@ const suicidalComments = [
     "Vontade de beber cloro de canudinho",
     "Vontade de jogar óleo quente no ouvido",
     "Vontade de rasgar o cu com a mão e depois passar um rolo de arame farpado pra garantir que não cicatrize",
+    "Vontade de furar minha cabeça com um furador de coco",
+    "Vontade de enfiar um carro no posto de gasolina"
 ];
 
 export { comments, angryComments, suicidalComments };
